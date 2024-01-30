@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654516419189",
+    "project_id": "foodieat-app",
+    "storage_bucket": "foodieat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654516419189:android:42f97ea9896b3b42f9163c",
+        "android_client_info": {
+          "package_name": "com.example.foodieatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZQ-vNT74Gaf7AnskWzGf3jAk59dwzsWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

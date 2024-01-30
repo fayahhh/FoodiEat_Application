@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">FoodiEat App</string>
+
+    <string name="first_slide">Food Lover?</string>
+    <string name="second_slide">Choose Your Products</string>
+    <string name="third_slide">Choose Your Products</string>
+
+    <string name="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry</string>
+    <string name="channel_name" />
+    <string name="channel_description" />
+    <string name="hungry">Hungry?</string>
+    <string name="what_would_you_like_to_eat_today">What Would You Like to Eat Today?</string>
+    <string name="hi_user">Hi User!</string>
+    <string name="smoked_smash_beef_burger_n_with_french_fries">Smoked Smash Beef Burger\n with French Fries</string>
+    <string name="try_now">Try Now</string>
+    <string name="popular_recipies">Popular Recipies</string>
+    <string name="dessert">Dessert</string>
+    <string name="western">Western</string>
+    <string name="noodles">Noodles</string>
+    <string name="savoury">Savoury</string>
+    <string name="see_all">See All</string>
+
+</resources>
